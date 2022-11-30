@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amand\\MeuTodo\\MeuTodo.csproj": {}
+    "C:\\Users\\amand\\OneDrive\\Desktop\\MeuTodo\\MeuTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amand\\MeuTodo\\MeuTodo.csproj": {
+    "C:\\Users\\amand\\OneDrive\\Desktop\\MeuTodo\\MeuTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amand\\MeuTodo\\MeuTodo.csproj",
+        "projectUniqueName": "C:\\Users\\amand\\OneDrive\\Desktop\\MeuTodo\\MeuTodo.csproj",
         "projectName": "MeuTodo",
-        "projectPath": "C:\\Users\\amand\\MeuTodo\\MeuTodo.csproj",
+        "projectPath": "C:\\Users\\amand\\OneDrive\\Desktop\\MeuTodo\\MeuTodo.csproj",
         "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amand\\MeuTodo\\obj\\",
+        "outputPath": "C:\\Users\\amand\\OneDrive\\Desktop\\MeuTodo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amand\\AppData\\Roaming\\NuGet\\NuGet.Config"
